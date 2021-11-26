@@ -18,10 +18,10 @@
 
 ## Features
 
-- a list of Business News by clicking the Business Tab
-- a list of Science News by clicking the Science Tab
-- a list of Sports News by clicking the Sports Tab
-- a News Details information by clicking the News
+- A list of Business News by clicking the Business Tab
+- A list of Science News by clicking the Science Tab
+- A list of Sports News by clicking the Sports Tab
+- A News Details information by clicking the News
 - Ability to search on specific news
 - Ability to change the default theme for the whole app
 - Ability to change the default App Language (coming soon)
